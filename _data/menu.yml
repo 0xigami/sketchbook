@@ -1,11 +1,15 @@
 entries:
-  - title: me
+  - title: artist
     entries:
-      - title: email
-        url: mailto:riccardo.graziosi97@gmail.com
-      - title: github
-        url: http://github.com/riggraz/
-      - title: "keep in touch: <a href='/newsletter.html'>newsletter</a>, <a href='/feed.xml'>rss feed</a>"
+      - title: "<a href='https://zora.co/create/single-edition'>mint</a> sketch (work in progress) as a free open edition"
+      - title: "validate your concept and earn <a href='https://support.zora.co/en/articles/8192123-understanding-protocol-rewards-on-zora'>zora protocol rewards</a>"
+      - title: "<a href='https://omega.build'>raffle</a> completed piece to your sketch collectors"
+
+- title: collector
+    entries:
+      - title: "collect work in progress (sketch) as a free open edition"
+      - title: "support the artist and help to validate their concept"
+      - title: "automatically enter raffle to win completed piece"
 
   - title: posts
     post_list: true
