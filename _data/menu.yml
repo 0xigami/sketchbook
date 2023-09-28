@@ -1,9 +1,9 @@
 entries:
   - title: artist
     entries:
-      - title: "<a href='https://zora.co/create/single-edition'>mint</a> sketch (work in progress) as a free open edition"
-      - title: "validate your concept and earn <a href='https://support.zora.co/en/articles/8192123-understanding-protocol-rewards-on-zora'>zora protocol rewards</a>"
-      - title: "<a href='https://omega.build'>raffle</a> completed piece to your sketch collectors"
+      - title: "<a href='https://zora.co/create/single-edition' target='_blank'>mint</a> sketch (work in progress) as a free open edition"
+      - title: "validate your concept and earn <a href='https://support.zora.co/en/articles/8192123-understanding-protocol-rewards-on-zora' target='_blank'>zora protocol rewards</a>"
+      - title: "<a href='https://omega.build' target='_blank'>raffle</a> completed piece to your sketch collectors"
 
   
   - title: collector
