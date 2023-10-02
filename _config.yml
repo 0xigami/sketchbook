@@ -8,7 +8,7 @@ permalink: /:slug.html
 favicon: "favicon.png"
 
 # Build settings
-remote_theme: riggraz/no-style-please
+remote_theme: 0xigami/no-style-please
 
 theme_config:
   appearance: "light"
