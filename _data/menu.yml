@@ -1,5 +1,5 @@
 entries:
-  - title: artist
+  - title: creator
     entries:
       - title: "<a href='https://zora.co/create/single-edition' target='_blank'>mint</a> sketch (work in progress) as a free open edition"
       - title: "validate your concept and earn <a href='https://support.zora.co/en/articles/8192123-understanding-protocol-rewards-on-zora' target='_blank'>zora protocol rewards</a>"
@@ -9,7 +9,7 @@ entries:
   - title: collector
     entries:
       - title: "collect work in progress (sketch) as a free open edition"
-      - title: "support the artist and help to validate their concept"
+      - title: "support the creator and help to validate their concept"
       - title: "automatically enter raffle to win completed piece"
   
   - title: releases
