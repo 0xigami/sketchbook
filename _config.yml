@@ -1,9 +1,9 @@
 title: Sketchbook
-description: Mint sketches as free open editions, validate your concept and earn zora protocol rewards, then raffle the completed piece to your sketch collectors.
+description: MVP for XYZ
 baseurl: ""
 url: "https://sketchbook.wtf"
 
-permalink: /:slug.html
+permalink: /:slug
 
 favicon: "favicon.png"
 
@@ -14,7 +14,7 @@ theme_config:
   appearance: "light"
   back_home_text: "home" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 plugins:
   - jekyll-feed
